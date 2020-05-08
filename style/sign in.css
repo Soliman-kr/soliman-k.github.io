@@ -21,7 +21,7 @@ body::-webkit-scrollbar-thumb {
 	background: rgb(14, 194, 74);
 }
 .bigBackground {
-	background: url(/img/background-3.jpg) no-repeat center center/cover;
+	background: url(../img/background-3.jpg) no-repeat center center/cover;
 	height: 100vh;
 	position: relative;
 	border-bottom: 3px solid var(--green-color);
